@@ -41,6 +41,8 @@ Ensuite, exécutez `.\kb-manager.exe` depuis le dossier de destination.
 
 ## Mode Interface Graphique
 
+![pic](./img/kbinter.png)
+
 ```cmd
 .\kb-manager.exe
 ```
